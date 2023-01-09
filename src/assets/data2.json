@@ -1,0 +1,70 @@
+{
+    "tenant_1": {
+      "name": "Company One",
+      "location": [
+        "Chennai",
+        "Kochi",
+        "USA",
+        "Amsterdam"
+      ],
+      "employeeCount": 2300,
+      "CEO": "Ravi"
+    },
+    "tenant_2": {
+      "name": "Company Two",
+      "location": [
+        "Chennai",
+        "Kochi",
+        "UK"
+      ],
+      "employeeCount": 250,
+      "CEO": "Sam"
+    },
+    "tenant_3": {
+      "name": "Company Three",
+      "location": [
+        "USA",
+        "Amsterdam",
+        "UK"
+      ],
+      "employeeCount": 700,
+      "CEO": "Sundar"
+    },
+    "tenant_4": {
+      "name": "Company Four",
+      "location": [
+        "USA",
+        "China"
+      ],
+      "employeeCount": 200,
+      "CEO": "Palani"
+    },
+    "tenant_5": {
+      "name": "Company Five",
+      "location": [
+        "USA",
+        "Amsterdam"
+      ],
+      "employeeCount": 500,
+      "CEO": "Sam"
+    },
+    "tenant_6": {
+      "name": "Company Six",
+      "location": [
+        "USA",
+        "UK"
+      ],
+      "employeeCount": 150,
+      "CEO": "Rakesh"
+    },
+    "tenant_7": {
+      "name": "Company Seven",
+      "location": [
+        "USA",
+        "Amsterdam",
+        "UK"
+      ],
+      "employeeCount": 1000,
+      "CEO": "Ravi"
+    }
+  }

@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "name": "John",
+      "age": 20,
+      "favColor": "Black",
+      "apartmentBlock": "A"
+    },
+    {
+      "id": 2,
+      "name": "Smith",
+      "age": 18,
+      "favColor": "Black",
+      "apartmentBlock": "C"
+    },
+    {
+      "id": 3,
+      "name": "Kumar",
+      "age": 24,
+      "favColor": "Black",
+      "apartmentBlock": "B"
+    },
+    {
+      "id": 4,
+      "name": "Ravi",
+      "age": 27,
+      "favColor": "Black",
+      "apartmentBlock": "E"
+    },
+    {
+      "id": 5,
+      "name": "Sam",
+      "age": 12,
+      "favColor": "Black",
+      "apartmentBlock": "A"
+    },
+    {
+      "id": 6,
+      "name": "Karthik",
+      "age": 29,
+      "favColor": "Black",
+      "apartmentBlock": "A"
+    },
+    {
+      "id": 7,
+      "name": "Lala",
+       "age": 34,
+      "favColor": "Black",
+      "apartmentBlock": "B"
+    },
+    {
+      "id": 8,
+      "name": "Rohan",
+      "age": 8,
+      "favColor": "Black",
+      "apartmentBlock": "C"
+    },
+    {
+      "id": 9,
+      "name": "Vikash",
+      "age": 14,
+     " favColor": "Black",
+      "apartmentBlock": "C"
+    },
+    {
+      "id": 10,
+      "name": "Suresh",
+      "age": 32,
+      "favColor": "Black",
+      "apartmentBlock": "E"
+    }
+  ]
